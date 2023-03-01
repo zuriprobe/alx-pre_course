@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 HEAD
 echo "ALX School is cool"
 echo "ALX School"
 My personal work
+=======
+echo "ALX School"
+>>>>>>> eabbeed927c6a40bb287341247e3ba00e52b0d44
